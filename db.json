@@ -2,24 +2,10 @@
     "card": [
       {
         "id": 1,
-        "imageURL": "Front End",
-        "titulo": "https://i.ytimg.com/vi/iORzNYN7Vtg/hqdefault.jpg",
-        "descricao": "https://www.youtube.com/watch?v=iORzNYN7Vtg"
-	"linkURL": "https://www.youtube.com/watch?v=iORzNYN7Vtg"
-      }
-      {
-        "id": 2,
-        "imageURL": "Front End",
-        "titulo": "https://i.ytimg.com/vi/iORzNYN7Vtg/hqdefault.jpg",
-        "descricao": "https://www.youtube.com/watch?v=iORzNYN7Vtg"
-	"linkURL": "https://www.youtube.com/watch?v=iORzNYN7Vtg"
-      }
-      {
-        "id": 3,
-        "imageURL": "Front End",
-        "titulo": "https://i.ytimg.com/vi/iORzNYN7Vtg/hqdefault.jpg",
-        "descricao": "https://www.youtube.com/watch?v=iORzNYN7Vtg"
-	"linkURL": "https://www.youtube.com/watch?v=iORzNYN7Vtg"
+        "imageURL": "",
+        "titulo": "Portifólio",
+        "descricao": "Aula finalizada no curso da Alura "
+	"linkURL": "https://github.com/SergioDevSousa/meuportfolio"
       }
     ]
 }
