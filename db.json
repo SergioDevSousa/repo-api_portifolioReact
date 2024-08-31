@@ -1,5 +1,4 @@
-{
-   [
+[
       {
       id: 1,
       link: 'https://github.com/SergioDevSousa/JogoSecreto',
@@ -30,5 +29,4 @@
       titulo: 'Projeto 6',
       descricao: 'Projeto feito usando HTML, CSS e JavaScript',
       }
-   ]
-}
+]
