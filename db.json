@@ -1,5 +1,4 @@
-{
-const projetos = [
+[
     {
       id: 1,
       link: 'https://github.com/SergioDevSousa/JogoSecreto',
@@ -28,5 +27,4 @@ const projetos = [
       titulo: 'Projeto 5',
       descricao: 'Projeto usando HTML, CSS3, JavaScript, API/json, deploi no Vercel',
     }
-  ]
-}
+]
